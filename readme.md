@@ -7,7 +7,7 @@
 [![YouTube Video](https://img.shields.io/badge/YouTube%20Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FpMWRXFraK8&feature=youtu.be)
 
 ## Independent Study Project
-This implementation was reproduced and analyzed as part of my Independent Study project for Fall 2024 under the supervision of **Dr. Paul Rad**. The study aimed to reproduce the original results and extend the analysis by testing the model on datasets and scenarios beyond those in the original paper. This additional exploration helped evaluate the model's adaptability and compatibility with unseen data and complex editing tasks.
+This implementation was reproduced and analyzed as part of my Independent Study project for Fall 2024 under the supervision of **Dr. Paul Rad**. The study aimed to reproduce the original results and extend the analysis by testing the model on datasets and scenarios beyond those in the original paper. This additional exploration helped evaluate the model's adaptability and compatibility with unseen data and complex editing tasks. you can find it in My_Learnble_Regions_v2_ipynb.ipynb.
 
 
 
